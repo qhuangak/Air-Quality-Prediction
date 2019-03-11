@@ -7,4 +7,3 @@ Before reading this project, you should read the project-report.pdf at first.
 
 And the data of this project is stored in the code.py.
 
-The dataset is show in the data file.
